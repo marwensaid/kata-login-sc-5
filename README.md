@@ -1,1 +1,0 @@
-# kata-login-sc-5
